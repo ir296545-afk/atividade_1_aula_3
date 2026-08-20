@@ -1,0 +1,24 @@
+{
+  "name": "atividade_1_aula_3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ir296545-afk/atividade_1_aula_3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ir296545-afk/atividade_1_aula_3/issues"
+  },
+  "homepage": "https://github.com/ir296545-afk/atividade_1_aula_3#readme",
+  "dependencies": {
+    "mongodb": "^7.5.0"
+  }
+}
